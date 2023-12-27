@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Christian Bowser</h1>
 <h3 align="center">A backend Java developer</h3>
 
+<a href="https://github.com/bowserchris" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bowserchris&label=Profile%20views&color=0e75b6&style=flat" alt="bowserchris" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bowserchris" alt="bowserchris" /></a> </p>
@@ -9,6 +13,8 @@
 - 🔭 I’m currently working on [IT-Academy-BCN ita-challenges-backend](https://github.com/IT-Academy-BCN/ita-challenges-backend)
 
 - 🌱 I’m currently learning **reactive programming & hexagonal architecture**
+
+- ⚡ Fun fact: I'm from the States 🤠 but am also half Spanish🕺  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
