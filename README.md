@@ -8,6 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bowserchris&label=Profile%20views&color=0e75b6&style=flat" alt="bowserchris" /> </p>
 
+### Glad to see you here!  
+I’m a Java Back-end developer who has recently finished a bootcamp with the IT Academy in Barcelona Cibernarium. This is my repository full of projects to use as a professional portfolio and a learning experience with new technologies.  
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bowserchris" alt="bowserchris" /></a> </p>
 
 - 🔭 I’m currently working on [IT-Academy-BCN ita-challenges-backend](https://github.com/IT-Academy-BCN/ita-challenges-backend)
