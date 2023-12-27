@@ -32,6 +32,12 @@ I’m a Java Back-end developer who has recently finished a bootcamp with the IT
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bowserchris&" alt="bowserchris" /></p>
 
+<h2 align="center">☕ Statistics</h2>
+
+<h2 align="center">🚀 Projects</h2>
+
+<h2 align="center">📌 Pinned Repositories</h2>
+<p align="center">Here are a few of my standout repositories.</p>
 
 <!--
 **bowserchris/bowserchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
