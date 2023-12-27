@@ -1,6 +1,6 @@
 <!-- version 1 thru https://rahuldkjain.github.io/gh-profile-readme-generator/-->
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <h1 align="center">Hi 👋, I'm Christian </h1>
 <h3 align="center">A Java backend developer</h3>
