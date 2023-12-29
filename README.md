@@ -3,11 +3,13 @@
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div>
+
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I´m Christian <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
 
 ## A Junior ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) Back-End Developer
+
+</div>
 
 <a href="https://github.com/bowserchris" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a><a href = "mailto:bowserchris github"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.github.com/bowserchris" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bowserchris?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
