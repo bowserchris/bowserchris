@@ -106,7 +106,7 @@ I’m a Java Back-End developer that has recently finished a bootcamp with the C
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/bowserchris/S5.2DiceGame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bowserchris&repo=S5.2DiceGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/bowserchris/Calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bowserchris&repo=S5.2DiceGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/bowserchris/Calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bowserchris&repo=Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><!-- flashing line gif -->
 
