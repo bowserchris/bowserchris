@@ -7,7 +7,7 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I´m Christian <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
 
-## A Junior ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) Back-End Developer <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
+## A ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) Back-End Developer <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
 
 </div>
 
@@ -21,14 +21,14 @@
 
 ### Welcome to my repo! 👨‍💻 
 
-I’m a Java Back-End developer that has recently finished a bootcamp with the Cibernarium IT Academy in Barcelona. This repository is full of projects in my ongoing journey within the IT sector and to use as a professional portfolio.  
+I’m a Java Back-End developer that has recently finished a bootcamp with IronHack Spain in Barcelona. This repository is full of projects in my ongoing journey within the IT sector and my own professional portfolio.  
 
-- 🔭 I’m currently working on [IT-Academy-BCN ita-challenges-backend](https://github.com/IT-Academy-BCN/ita-challenges-backend)
-- 🧠 I’m currently learning **Reactive Programming & Hexagonal Architecture**
+- 🔭 I’m currently working on [Food Punχ](https://github.com/bowserchris/food-punck)
+- 🧠 I’m currently learning **Local LLM's & Docker Containerization**
 - 🤝 I'm open to collaborating on interesting projects
 - 🌍 I'm based in *Barcelona, Spain*
 - ☕ Ask me about **cinnamon bun rolls**
-- ⚡ I´m interested in *blockchain technology* & the potential for decentralised programs 
+- ⚡ I´m interested in *cyber-security*, *blockchain technology* & the potential for decentralised programs 
 <!-- *   ✉️  You can contact me at [bowserchris github](mailto:bowserchris github) 
 - ⚡ Fun fact: I'm from the States 🤠 and also half Spanish 🕺
 - ⚡ Fun fact **: I´m a big fan of cinnamon rolls**
@@ -109,8 +109,25 @@ I’m a Java Back-End developer that has recently finished a bootcamp with the C
 <p align="center">Here are a few of my standout repositories.</p>
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/bowserchris/S5.2DiceGame" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bowserchris&repo=S5.2DiceGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
-<div width="100%" align="right"><a href="https://github.com/bowserchris/Calculator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bowserchris&repo=Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/bowserchris/food-punck" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bowserchris&repo=food-punck&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<div width="100%" align="right">
+  <a href="https://github.com/bowserchris/Calculator" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bowserchris&repo=Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<div></div>
+
+<div width="100%" align="center">
+  <a href="https://github.com/bowserchris/S5.2DiceGame" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bowserchris&repo=S5.2DiceGame&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><!-- flashing line gif -->
 
