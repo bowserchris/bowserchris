@@ -1,5 +1,5 @@
 <!-- version 1 thru https://rahuldkjain.github.io/gh-profile-readme-generator/-->
-<h3 align="center"> ✍️Random Dev Quote/Food for Thought </h3>
+<h3 align="center"> ✍️ Food for Thought </h3>
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -7,13 +7,17 @@
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I´m Christian <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
 
-## A Junior ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) Back-End Developer
+## A Junior ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) Back-End Developer <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
 
 </div>
 
 <a href="https://github.com/bowserchris" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a><a href = "mailto:bowserchris github"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.github.com/bowserchris" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/bowserchris?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bowserchris&label=Profile%20views&color=0e75b6&style=flat" alt="bowserchris" /> </p>
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github         style="margin-bottom: 5px;" /></a> 
+<a href = "mailto:bowserchris github">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.github.com/bowserchris" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/bowserchris?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://github.com/bowserchris"> <img src="https://komarev.com/ghpvc/?username=bowserchris&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="bowserchris" /> </a>
 
 ### Welcome to my repo! 👨‍💻 
 
@@ -34,8 +38,8 @@ I’m a Java Back-End developer that has recently finished a bootcamp with the C
 <!-- ### ☕ Socials
 <p align="left"> <a href="https://www.github.com/bowserchris" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="100" height="100" /> </picture> </a></p> -->
 
-<h2 align="center"> 💻 Tech Stack: </h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
+<h2 align="center"> 💻 Tech Stack: </h2> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
+
 
 ### Languages and Tools I use:
 
@@ -72,8 +76,8 @@ I’m a Java Back-End developer that has recently finished a bootcamp with the C
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)![CONSUL](https://img.shields.io/badge/consul-F24C53svg?style=for-the-badge&logo=consul&logoColor=white&color=%23F24C53)![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 </div>
 
-<h2 align="center"> 📊 GitHub Stats: </h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
+<h2 align="center"> 📊 GitHub Stats: </h2> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
+
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bowserchris&theme=prussian&hide_border=false)
@@ -96,12 +100,12 @@ I’m a Java Back-End developer that has recently finished a bootcamp with the C
 ![](https://github-profile-trophy.vercel.app/?username=bowserchris&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
 </div>
 
-<h2 align="center">🚀 Projects</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
+<h2 align="center">🚀 Projects</h2> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
 
 
-<h2 align="center">📌 Pinned Repositories</h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
+
+<h2 align="center">📌 Pinned Repositories</h2> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!-- flashing line gif -->
+
 <p align="center">Here are a few of my standout repositories.</p>
 <b>Top Repositories</b>
 
